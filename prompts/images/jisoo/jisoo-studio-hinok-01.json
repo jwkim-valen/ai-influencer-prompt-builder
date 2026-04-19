@@ -1,0 +1,32 @@
+{
+  "prompt": "UPPER BODY PORTRAIT. Face occupies left 60% of frame, product on right side. woman, early 20s, Korean fair skin tone with cool-neutral undertone, oval face with slightly elongated proportions and natural asymmetry, dark hazel-brown almond-shaped eyes with natural double eyelid crease and long curled lashes, fair porcelain Korean complexion with light visible pores and subtle peach fuzz, softly arched thin dark brown brows, small straight nose with softly rounded tip, moderately full naturally rosy-nude lips, dark brown-black hair worn long and straight down with natural flyaway strands, slim slender build with delicate bone structure and natural proportions. Body at a slight 3/4 angle to the right, face turned back toward camera. Right hand raised, holding hinok shampoo bottle vertically at ear-to-cheek height on the right side of face, label facing camera. Left hand resting gently on right shoulder, fingers naturally curled. Head straight, direct gaze into camera — neutral-to-cool expression, lips gently parted, no smile. Wearing white sleeveless spaghetti-strap top, bare shoulders visible. Muted olive-khaki warm gold seamless studio backdrop, plain and even. Soft diffused frontal lighting with warm golden ambient, even luminous highlight on forehead and cheekbones, medium contrast, warm skin tones. hinok shampoo bottle: tall cylindrical body with rounded shoulders, deep forest green frosted matte finish, black pump dispenser on top with black ribbed collar, white text 'The Shampoo' in elegant serif font centered on upper label area, 'JEJU ISLAND HINOKI' in small caps below, '450 mL, 15.21 FL. OZ.' smaller text, 'hinok' brand name in lowercase white elegant font at bottom center — bottle held vertically in right hand beside face, label fully facing camera. Do not smooth skin. Do not blur background. Preserve exact facial structure — slightly elongated oval face, hazel-brown eyes, rosy-nude lips. No beauty filter. Label must be fully legible. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, slimmed face, reshaped jaw, full body shot, legs visible, white background, grey background, cool background, three hands, extra hands, extra arms, third hand, floating hand, disembodied hand, duplicate hand, hand duplication, more than two hands visible",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, UGC, warm beauty editorial, clean studio",
+    "lighting": "soft diffused frontal lighting, warm golden ambient, even luminous highlight on forehead and cheekbones, medium contrast, warm skin tones",
+    "camera": {
+      "lens": "50mm equivalent, rear phone camera",
+      "angle": "eye-level — direct neutral",
+      "framing": "upper body portrait — face left 60% of frame, product right side, head to mid-torso",
+      "depth_of_field": "subject sharp, muted olive-khaki backdrop soft but identifiable",
+      "focus": "face sharp, hinok bottle label sharp and fully legible"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "slightly_warm",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "warm"
+  }
+}

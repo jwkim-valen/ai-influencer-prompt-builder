@@ -1,0 +1,32 @@
+{
+  "prompt": "FULL BODY SHOT FROM HIGH OVERHEAD ANGLE. Subject fully visible from head to feet. woman, early 20s, Korean fair skin tone with cool-neutral undertone, oval face with slightly elongated proportions and natural asymmetry, dark hazel-brown almond-shaped eyes with natural double eyelid crease and long curled lashes, fair porcelain Korean complexion with light visible pores and subtle peach fuzz, softly arched thin dark brown brows, small straight nose with softly rounded tip, moderately full naturally rosy-nude lips, dark brown-black hair pulled back in loose updo with natural flyaway strands, slim slender build with delicate bone structure and natural proportions. Crouching low on the floor, knees drawn up and together, feet flat on the ground. Right elbow resting on right knee, right hand raised with fingers curled, gently supporting right cheek — silver rings visible on fingers. Left hand resting near left knee. Body facing slightly toward camera, head tilted up looking directly into camera with neutral-to-cool expression, lips naturally slightly parted, no smile. Wearing navy blue graphic t-shirt with 'YORK' varsity-style text graphic on chest, black mini shorts, white loose crew socks scrunched down to ankle. Sitting on bright neon yellow-green PUMA branded floor mat with bold black 'STREET' lettering visible on surface. Grey concrete floor visible at upper-left corner of frame. Flat even indoor ambient lighting, cool-neutral, minimal shadows — PUMA event space interior. PUMA sneakers: neon yellow-green mesh upper with silver metallic overlays and black accent panels, neon green flat laces, PUMA wordmark in black on lateral side and tongue tab, chunky athletic midsole — both shoes prominently visible at bottom of frame, label facing camera. Do not smooth skin. Do not blur background. Preserve exact facial structure — slightly elongated oval face, hazel-brown eyes, rosy-nude lips. No beauty filter. Label must be fully legible. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic shoe, slimmed face, reshaped jaw, eye-level shot, low angle, close-up, upper body only, face only, missing feet, missing shoes, warm background, white background",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, UGC, sporty street candid, Y2K athletic",
+    "lighting": "flat even indoor ambient lighting, cool-neutral, minimal directional shadow, PUMA event space interior",
+    "camera": {
+      "lens": "28mm equivalent, rear phone camera",
+      "angle": "high overhead bird's-eye angle — camera looking straight down at subject from above",
+      "framing": "full body shot — head to feet fully in frame, subject centred on neon green branded floor",
+      "depth_of_field": "subject sharp, floor and background identifiable and in focus",
+      "focus": "face sharp, PUMA sneaker label sharp and legible, floor branding visible"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "cool_fluorescent",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "neutral"
+  }
+}

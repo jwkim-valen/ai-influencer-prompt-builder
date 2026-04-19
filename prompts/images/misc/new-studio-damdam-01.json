@@ -1,0 +1,32 @@
+{
+  "prompt": "woman, early 20s, Korean fair porcelain skin with warm-neutral undertone, oval face with soft defined jawline and natural asymmetry, dark brown almond-shaped eyes with subtle natural double eyelid, natural lashes with soft curl, fair complexion with light visible pores and subtle peach fuzz, straight dark brown-black brows, small straight nose with rounded tip, naturally full rosy-pink lips, jet black hair pulled into a loose low bun at nape with flyaway strands framing face, slim slender build with delicate bone structure and natural proportions. Upper body 3/4 angle, right hand raised holding DAMDAM TOKYO MATCHA BOOST EYE SERUM dropper bottle near cheek area, fingers gently wrapped around frosted milky-white glass bottle body, label facing forward fully legible showing 'DAMDAM' in clean sans-serif above 'TOKYO', below that 'MATCHA BOOST EYE SERUM', small green square icon, and '0.68 FL. OZ / 20ml' at base, white rounded rubber dropper bulb cap on top. Head slightly tilted upward, gaze directed softly upward and away from camera in a contemplative expression, lips closed in calm neutral pose. Left arm crossing naturally at lower frame. Right shoulder slightly forward. Clean white seamless studio backdrop with subtle soft shadow gradient. Soft diffused even white light from slight left angle, gentle shadow definition on right side of face preserving natural skin texture. White halter-neck satin top. Do not smooth skin. Do not blur background. Label must be fully legible. Preserve exact facial structure, proportions, and identity. No beauty filter.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, heavy makeup, over-contoured face, false lashes, dramatic eye makeup",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, candid UGC, phone camera",
+    "lighting": "soft diffused even white light from slight left angle, gentle shadow definition on right cheek side, natural skin texture preserved, no harsh highlights",
+    "camera": {
+      "lens": "28mm equivalent, rear phone camera",
+      "angle": "eye-level",
+      "framing": "bust shot, head to upper chest, product bottle visible in right hand near face",
+      "depth_of_field": "subject sharp, white studio background soft but fully identifiable as seamless backdrop",
+      "focus": "face sharp, product label sharp and legible, white background present and identifiable"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "clean_digital",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "slightly_warm",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "natural"
+  }
+}

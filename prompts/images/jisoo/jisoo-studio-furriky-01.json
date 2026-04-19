@@ -1,0 +1,32 @@
+{
+  "prompt": "UPPER BODY PORTRAIT. Subject visible from head to chest. woman, early 20s, Korean fair skin tone with cool-neutral undertone, oval face with slightly elongated proportions and natural asymmetry, dark hazel-brown almond-shaped eyes with natural double eyelid crease and long curled lashes, fair porcelain Korean complexion with light visible pores and subtle peach fuzz, softly arched thin dark brown brows, small straight nose with softly rounded tip, moderately full naturally rosy-nude lips, dark brown-black hair worn long and straight down with natural flyaway strands falling forward, slim slender build with delicate bone structure and natural proportions. Standing with body at a slight 3/4 angle to the left. Right hand raised, holding Furriky product tube vertically at chest-to-shoulder height, label facing camera. Left arm relaxed at side. Head turned slightly, gaze directed softly to the side — dreamy neutral expression, lips gently parted, no smile. Wearing lavender light purple sleeveless top. Pink gradient studio backdrop — soft light pink at center fading to deeper rose pink at edges. Soft diffused frontal lighting with warm pink ambient, even luminous highlight across forehead and cheekbones, low contrast. Furriky hair treatment tube: medium-sized soft squeeze tube, solid warm pink body, 'Furriky' lettering in large dark burgundy-red decorative script font on front face, smaller text 'OLEOMIDE KERATIN TREATMENT' below brand name, 'DEW' text, 'Good & Glow' small text near base, white flat cap at bottom — tube held vertically in right hand, label fully facing camera. Do not smooth skin. Do not blur background. Preserve exact facial structure — slightly elongated oval face, hazel-brown eyes, rosy-nude lips. No beauty filter. Label must be fully legible. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic tube, slimmed face, reshaped jaw, full body shot, legs visible, white background, grey background",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, UGC, soft feminine beauty editorial",
+    "lighting": "soft diffused frontal lighting, warm pink ambient, even luminous highlight on forehead and cheekbones, low contrast",
+    "camera": {
+      "lens": "50mm equivalent, rear phone camera",
+      "angle": "eye-level, slight high angle",
+      "framing": "upper body portrait — head to chest, face occupies upper 55% of frame",
+      "depth_of_field": "subject sharp, pink gradient background soft but identifiable",
+      "focus": "face sharp, product label sharp and fully legible"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "slightly_warm",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "warm"
+  }
+}

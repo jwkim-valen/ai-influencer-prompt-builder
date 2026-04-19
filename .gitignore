@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Claude Code memory
+memory/
+
+# 개인 메모
+*.local.md

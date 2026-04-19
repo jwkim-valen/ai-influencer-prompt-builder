@@ -1,0 +1,32 @@
+{
+  "prompt": "3/4 BODY SHOT. Subject visible from head to above knees. woman, early 20s, Korean fair skin tone with cool-neutral undertone, oval face with slightly elongated proportions and natural asymmetry, dark hazel-brown almond-shaped eyes with natural double eyelid crease and long curled lashes, fair porcelain Korean complexion with light visible pores and subtle peach fuzz, softly arched thin dark brown brows, small straight nose with softly rounded tip, moderately full naturally rosy-nude lips, dark brown-black hair worn long and straight flowing loosely to one side with natural flyaway strands, slim slender build with delicate bone structure and natural proportions. Sitting on blue floor with legs folded to the left side. Right arm raised, right hand resting on top of head with fingers gently gripping hair. Left hand flat on blue floor beside body for support. Body at a slight 3/4 angle toward camera. Head tilted slightly downward, gaze directed downward and away from camera — introspective dreamy expression, lips naturally slightly parted, no smile. Wearing layered outfit: sheer white-grey semi-transparent mesh long-sleeve fitted top over a light grey spaghetti-strap slip cami underneath — layered translucent effect. Dark charcoal bodycon mini skirt. Slim silver rectangular frame glasses with slightly pink-tinted lenses, worn low on nose. Light grey off-white seamless studio backdrop. Blue floor surface. Soft diffused frontal studio lighting, cool-neutral, low contrast, even soft highlight on skin with no harsh shadows. Do not smooth skin. Do not blur background. Preserve exact facial structure — slightly elongated oval face, hazel-brown eyes, rosy-nude lips. No beauty filter. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, slimmed face, reshaped jaw, full body shot, close-up face only, warm background, white background, coloured background",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, UGC, cool editorial, clean studio lookbook",
+    "lighting": "soft diffused frontal studio lighting, cool-neutral, low contrast, even soft highlight on skin, no harsh shadows",
+    "camera": {
+      "lens": "50mm equivalent, rear phone camera",
+      "angle": "eye-level to slight above — neutral observational",
+      "framing": "3/4 body shot — head to above knees, body at slight 3/4 angle",
+      "depth_of_field": "subject sharp, light grey backdrop soft but identifiable",
+      "focus": "face sharp, outfit layers and fabric texture sharp and legible"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "cool_fluorescent",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "neutral"
+  }
+}

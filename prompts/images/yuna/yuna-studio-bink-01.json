@@ -1,0 +1,32 @@
+{
+  "prompt": "woman, early 20s, Korean fair porcelain skin tone with warm undertone, oval face with soft defined jawline and natural asymmetry, dark brown slightly upturned eyes with subtle natural double eyelid, natural lashes, fair Korean complexion with light visible pores and subtle peach fuzz, straight dark brown-black Korean-style brows, small slightly upturned button nose, full naturally rosy-pink lips, jet black long straight hair worn down with natural flyaway strands, slim slender build with delicate bone structure and natural proportions. Standing in a clean minimalist studio, slight 3/4 body angle toward camera, holding deep burgundy Bink water bottle with both hands at lower chest height, product facing forward and fully visible, natural relaxed expression with soft closed-mouth smile, chin slightly lowered. Wearing a simple white fitted short-sleeve top and light beige wide-leg trousers — clean minimal outfit that does not compete with the product. Background: white seamless paper backdrop, faint edge shadow at base, minimal studio environment — background clean and identifiable as studio. Lighting: large soft diffused overhead light panel, subtle gentle side fill from left, clean even tones on skin, no harsh shadows, soft shadow under jawline. Bink water bottle: deep burgundy wine-red matte silicone sleeve exterior, rounded wide cylindrical body, matching burgundy flat disc-style cap with D-ring loop handle in same burgundy, narrow vertical clear hydration tracking window strip on side, lowercase debossed Bink text on lower body, glass bottle encased in silicone, bottle held with both hands label facing forward. Do not smooth skin. Label must be fully legible. No beauty filter. Preserve exact facial structure. Do not reshape body proportions. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, harsh dramatic lighting, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, bokeh, blurred background, shallow depth of field, outdoor setting, editorial over-retouching, heavy makeup filter",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, product campaign, clean studio, natural skin, UGC-adjacent",
+    "lighting": "soft diffused overhead light panel, gentle side fill from left, clean even tones, no harsh shadows",
+    "camera": {
+      "lens": "50mm equivalent, rear camera",
+      "angle": "eye-level, slight 3/4 angle",
+      "framing": "medium shot, head to hip, product prominently held and facing camera",
+      "depth_of_field": "subject sharp, white seamless backdrop cleanly out of focus",
+      "focus": "face sharp, Bink bottle fully visible and label fully legible"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "clean_digital",
+      "compression_artifacts": false,
+      "dynamic_range": "hdr_capable",
+      "white_balance": "natural_daylight",
+      "lens_imperfections": ["subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_ai_beauty_filters": true,
+      "no_heavy_makeup_filter": true,
+      "no_editorial_over_processing": true
+    },
+    "color_grading": "neutral"
+  }
+}

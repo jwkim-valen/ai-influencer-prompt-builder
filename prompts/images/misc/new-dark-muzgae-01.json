@@ -1,0 +1,32 @@
+{
+  "prompt": "woman, early 20s, Korean fair dewy glass-skin complexion with warm undertone, round-oval face with soft features and natural asymmetry, dark brown eyes with dramatic upward gaze and visible lower sclera, subtle natural lashes with warm terracotta eyeshadow, fair skin with naturally present but understated pores, smooth dewy texture without exaggeration, dark brown-black straight thin brows, small rounded nose, very full naturally rosy lips with glossy lip tint applied, long dark brown-black straight hair worn loose and down with one strand crossing face diagonally, slim delicate build with natural proportions. Extreme close-up, face filling most of frame, head tilted slightly upward and to right. Right hand pressing MUZGAE MANSION lip tint bottle against lower cheek and chin, fingers wrapped around bottle, colorful pink nail art with white floral details visible on nails. Product is a clear sculptural organic-shaped glass bottle with deep rose-red burgundy liquid visible through transparent body, dark metal silver screw cap on top, label facing camera reading 'MUZGAE MANSION' in serif lettering with smaller text below. Lips slightly parted with glossy wet finish. Dark near-black background with subtle deep shadow gradient. Low-key dramatic single-source front lighting with slight top angle, soft glow on skin surface from dewy texture, natural shadow falling across sides of face, minimal fill. Black outfit with white collar detail at neckline. Do not smooth skin. Label must be fully legible. Preserve exact facial structure, proportions, and identity. No beauty filter. Do not reshape body proportions.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, heavy ISO grain, film grain overlay, neon colour cast, digital art bias, exaggerated pores, prominent skin texture, enlarged pores, rough skin surface, overly textured skin",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, documentary realism, candid UGC, phone camera, dark moody",
+    "lighting": "low-key single-source front-top lighting, deep near-black background, soft dewy glow on skin surface, natural shadow on face sides, no fill light",
+    "camera": {
+      "lens": "28mm equivalent, rear phone camera",
+      "angle": "eye-level, extreme close-up macro",
+      "framing": "close-up face shot, head to upper chest, product pressed against chin and cheek",
+      "depth_of_field": "face and product tack sharp, dark background identifiable as dark interior",
+      "focus": "face sharp, product label sharp and legible, lip gloss texture sharp"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "slightly_warm",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "natural"
+  }
+}
