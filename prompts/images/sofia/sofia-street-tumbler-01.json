@@ -1,0 +1,32 @@
+{
+  "prompt": "MEDIUM SHOT CANDID from rear phone camera. Subject walking casually along a warm-toned European-style urban street, captured mid-stride. woman, mid 20s, Southern European olive skin tone, slightly oval face with natural asymmetry, dark brown eyes with slight under-eye shadow, natural lashes, olive complexion with visible pores, peach fuzz on cheeks, dark brown naturally wavy slightly frizzy hair, average build with natural proportions. Body at a natural 3/4 angle facing camera direction, left hand loosely holding a plain matte-beige reusable insulated tumbler at hip height, right hand relaxed by her side with fingers slightly curled. Head tilted very slightly toward a soft natural smile, eyes gazing gently off-camera to the right as if looking at shop windows, lips softly parted in a subtle candid micro-smile. Wearing oversized cream-beige chunky knit sweater with slightly rolled cuffs, straight-leg faded mid-blue denim jeans, plain white low-top canvas sneakers, natural-beige cotton tote bag slung casually over right shoulder. Background: warm-toned urban side street — soft cream and terracotta painted building facades, a small cafe awning visible to the left with blackboard menu, a few potted olive plants by a shop entrance, two pedestrians walking softly in the mid-distance, cobblestone pavement catching warm light. Late golden hour: warm directional sunlight from camera-left, long soft diagonal shadows stretching across the pavement, golden glow catching on hair strands and sweater weave, warm luminous skin tones. Tumbler: plain matte-beige cylindrical insulated body, slim soft silicone grip band around the middle, brushed-matte metallic screw-top lid — no logo, no label, held naturally in left hand. Do not smooth skin. Do not blur background. Label-free tumbler must remain plain with no fabricated logos or text. Preserve exact facial structure — slightly oval face with natural asymmetry, olive skin with visible pores and peach fuzz, dark brown wavy slightly frizzy hair. No beauty filter. No colour grading beyond natural. Preserve exact facial structure, proportions, and identity. Do not average or normalise features.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, studio lighting, professional photography, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting, DSLR look, high-end camera, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, vignette, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, fabricated logo, fake brand text on tumbler, disposable paper coffee cup, plastic takeaway cup, straw visible, overexposed sky, blown highlights, flat midday lighting, frozen mannequin stride, magazine editorial pose, empty ghost-town street, slimmed waist, reshaped jaw, hair-salon-perfect blowout, glossy over-conditioned hair, three hands, extra hands, duplicate hand, floating hand",
+  "settings": {
+    "resolution": "2K",
+    "aspect_ratio": "9:16",
+    "style": "hyper-realistic, candid street photography, documentary realism, UGC, natural golden-hour warmth",
+    "lighting": "late golden hour, warm directional sunlight from camera-left, long soft diagonal shadows across cobblestone pavement, golden rim light catching hair and sweater, warm luminous skin tones, medium-soft contrast",
+    "camera": {
+      "lens": "28mm equivalent, rear phone camera",
+      "angle": "eye-level candid, slightly angled from the right",
+      "framing": "medium shot, subject visible from knees-up, captured mid-stride, tumbler and face both clearly in frame",
+      "depth_of_field": "subject sharp, background softly present but fully identifiable",
+      "focus": "face sharp, tumbler body sharp and clearly recognisable, background street context present and readable"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "minor unfiltered sensor grain",
+      "compression_artifacts": true,
+      "dynamic_range": "limited",
+      "white_balance": "slightly_warm",
+      "lens_imperfections": ["minor lens distortion", "subtle vignetting"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": true,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": true
+    },
+    "color_grading": "warm"
+  }
+}

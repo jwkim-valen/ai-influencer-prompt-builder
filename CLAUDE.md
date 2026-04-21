@@ -18,7 +18,7 @@
 - `skills/evaluate-all.md` — 프롬프트 일괄 평가
 - `skills/revise.md` — 프롬프트 수정 + 재평가 통합
 - `skills/export.md` — 프롬프트 내보내기
-- `skills/prompt-evaluator.md` — 품질 평가 기준 (프롬프트 생성 시 자동 실행)
+- `skills/prompt-evaluator.md` — 품질 평가 기준 (사용자가 요청할 때만 실행)
 
 ---
 
@@ -42,10 +42,7 @@
    └─ 미등록 캐릭터: prompts/images/misc/new-{location}-{product}-{nn}.json
 
 5. 저장된 JSON 채팅에 출력
-
-5-1. 품질 평가 (5점 만점)
-   → skills/prompt-evaluator.md 규칙으로 평가 실행
-   → prompt_quality_log.md에 결과 기록
+   (품질 평가는 자동 실행하지 않는다. 사용자가 "평가해줘" 등으로 명시적으로 요청할 때만 실행)
 
 6. "수정할 부분이 있나요?" 질문
 

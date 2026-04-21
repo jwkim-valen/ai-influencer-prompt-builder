@@ -1,0 +1,32 @@
+{
+  "prompt": "A woman in her mid-20s, East Asian skin tone, slim athletic build with natural proportions, jet-black hair pulled into a low sleek ponytail with a few flyaway strands at the nape, visible peach fuzz on the back of the neck, bare clean skin with visible pores and natural micro-texture, no makeup visible on exposed areas. Lying on her left side in a fully relaxed, natural sleep posture on a low ivory quilted mattress topper placed directly on a light wooden floor. Legs softly stacked with knees very slightly bent, feet relaxed with heels almost touching. Both arms extended forward at chest level, resting near the pillow, fingers loosely curled, shoulders naturally dropped. Head resting on an ivory wave-contour cervical memory-foam pillow, spine in neutral alignment, small lumbar curve visible. Face mostly hidden in pure lateral profile — only a sliver of cheek and eyelashes visible, eyes closed, calm relaxed expression. Wearing a light powder-blue seamless sports bra with thin straps and a matching high-waist full-length seamless legging set, minimal branding, barefoot. Background is a clean seamless off-white studio cyclorama with subtle cool-gray floor gradient, no props, only a faint soft contact shadow beneath the mattress. Soft overhead diffused softbox light from slightly front-top, low contrast, very even exposure across the entire body, minimal shadow under jaw, ribs and knees, cool-neutral white balance with a hint of daylight. PRODUCT 1 — cervical pillow: ivory-cream, distinct wave-shaped dual-height ergonomic contour (lower dip under the neck, raised lobes under the head and shoulders), plush ivory boucle / terry loop fabric cover with fine vertical side stitching, matte natural finish, no logo visible. PRODUCT 2 — mattress topper: ivory quilted futon-style topper, diamond / grid stitched pattern, rounded corners, approximately 6 to 8 cm thickness, natural cotton-linen outer fabric with faint vertical side piping, edges softly compressed under body weight in a realistic way. Preserve exact wave contour and stitching of the pillow and the quilting lines and rounded corners of the topper — do not simplify, do not distort product shape. Do not smooth skin. Do not blur background. Label and product shape must be fully accurate and legible. No beauty filter. Preserve exact facial structure, proportions, and identity. Do not average or normalise features. Visible pores, peach fuzz, slight asymmetry in posture, natural spinal curve, real breathing posture — not posed stiff or airbrushed.",
+  "negative_prompt": "bokeh, blurred background, shallow depth of field, background out of focus, retouched skin, beauty filter, smooth skin, poreless, airbrushed, plastic skin, editorial lighting with harsh rim, DSLR dramatic look, perfectly symmetrical face, unrealistic proportions, CGI, render, illustration, painting, digital art, anime, cartoon, oversaturated, HDR glow, lens flare, watermark, text overlay, extra limbs, deformed hands, wrong fingers, mutated, blurry product label, illegible text, distorted packaging, wrong product shape, missing label details, generic bottle, wrong pillow contour, flat uniform pillow, missing wave shape, simplified quilting, missing diamond stitch, over-inflated mattress, floating body, bent spine unnatural, stiff mannequin pose, frozen limbs, commercial fake smile, magazine retouch",
+  "settings": {
+    "resolution": "4K",
+    "aspect_ratio": "16:9",
+    "style": "hyper-realistic, editorial wellness product photography, clean minimal commercial, documentary realism, muted neutral",
+    "lighting": "soft overhead diffused softbox from slightly front-top, very low contrast, even exposure, minimal shadow under jaw and knees, faint contact shadow beneath mattress only",
+    "camera": {
+      "lens": "50mm equivalent, studio product camera",
+      "angle": "eye-level lateral side view — parallel to the subject's body, product-first intent",
+      "framing": "horizontal full-body lateral profile, subject centered with generous negative space above, entire mattress topper in frame",
+      "depth_of_field": "deep — both product and body fully in focus, background soft but fully identifiable",
+      "focus": "cervical pillow wave contour sharp, mattress quilting lines sharp, body silhouette sharp, background clean"
+    },
+    "image_quality_simulation": {
+      "sharpness": "tack_sharp",
+      "noise": "clean_digital",
+      "compression_artifacts": false,
+      "dynamic_range": "hdr_capable",
+      "white_balance": "cool_neutral_daylight",
+      "lens_imperfections": ["minimal — clean commercial look, slight natural falloff at edges only"]
+    },
+    "explicit_restrictions": {
+      "no_professional_retouching": true,
+      "no_studio_lighting": false,
+      "no_ai_beauty_filters": true,
+      "no_high_end_camera_look": false
+    },
+    "color_grading": "cool neutral, muted, desaturated clean wellness tone"
+  }
+}
